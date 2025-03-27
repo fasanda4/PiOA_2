@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\zad10\zad10\obj\Debug\zad10.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\zad10\zad10\obj\Debug\zad10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\zad10\zad10\bin\Debug\zad10.exe
+C:\Users\user\source\repos\zad10\zad10\bin\Debug\zad10.pdb
+C:\Users\user\source\repos\zad10\zad10\obj\Debug\zad10.exe
+C:\Users\user\source\repos\zad10\zad10\obj\Debug\zad10.pdb
